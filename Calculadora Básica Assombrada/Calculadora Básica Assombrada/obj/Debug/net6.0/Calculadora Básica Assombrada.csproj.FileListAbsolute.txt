@@ -1,0 +1,15 @@
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/bin/Debug/net6.0/Calculadora Básica Assombrada
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/bin/Debug/net6.0/Calculadora Básica Assombrada.deps.json
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/bin/Debug/net6.0/Calculadora Básica Assombrada.runtimeconfig.json
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/bin/Debug/net6.0/Calculadora Básica Assombrada.dll
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/bin/Debug/net6.0/Calculadora Básica Assombrada.pdb
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/Calculadora Básica Assombrada.csproj.AssemblyReference.cache
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/Calculadora Básica Assombrada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/Calculadora Básica Assombrada.AssemblyInfoInputs.cache
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/Calculadora Básica Assombrada.AssemblyInfo.cs
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/Calculadora Básica Assombrada.csproj.CoreCompileInputs.cache
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/Calculadora Básica Assombrada.dll
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/refint/Calculadora Básica Assombrada.dll
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/Calculadora Básica Assombrada.pdb
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/Calculadora Básica Assombrada.genruntimeconfig.cache
+/Users/ProgamadorNumero1/Projects/Calculadora Básica Assombrada/Calculadora Básica Assombrada/obj/Debug/net6.0/ref/Calculadora Básica Assombrada.dll
